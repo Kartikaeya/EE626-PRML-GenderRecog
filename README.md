@@ -8,7 +8,7 @@ This repository contains all the source code for EE626-PRML Project titled : Gen
 
 ## Demostration  
 YouTube video link : 
-[["EE626 : Gender Recognition from face images"](http://www.youtube.com/watch?v=xEdH9ddTxoE)] "EE626 : Gender Recognition from face images"
+[["EE626 : Gender Recognition from face images"](http://www.youtube.com/watch?v=xEdH9ddTxoE)]
 
 ## Dataset
 [Drive link](https://drive.google.com/drive/folders/153LS7dvG_ijU1-KpSWRqydTreTNm6QcS?usp=sharing)  
