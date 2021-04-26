@@ -7,7 +7,8 @@ This repository contains all the source code for EE626-PRML Project titled : Gen
 - Arpit Kumar Jain (180122009)
 
 ## Demostration  
-[[Youtube video link](http://www.youtube.com/watch?v=xEdH9ddTxoE)] "EE626 : Gender Recognition from face images")  
+YouTube video link : 
+[["EE626 : Gender Recognition from face images"](http://www.youtube.com/watch?v=xEdH9ddTxoE)] "EE626 : Gender Recognition from face images"
 
 ## Dataset
 [Drive link](https://drive.google.com/drive/folders/153LS7dvG_ijU1-KpSWRqydTreTNm6QcS?usp=sharing)  
